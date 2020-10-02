@@ -1,0 +1,31 @@
+<h1>Libro Data</h1>
+
+<p>This component .</p>
+
+<p *ngIf="!asigList">
+  <em>
+    Loading...
+  </em>
+</p>
+<table *ngIf="libroList" class=" table-dark">
+  <thead>
+    <tr>
+      <th>Asignatura Id</th>
+      <th>Asignatura DESCRIPTION</th>
+      <th>Asignatura ASIGNATURA</th>
+      <th>Asignatura STOCK</th>
+
+    </tr>
+
+  </thead>
+  <tbody>
+    <tr *ngFor="let asig  of  libroList">
+      <td> {{asig.id_libro}}</td>
+      <td> {{asig.descripcion}}</td>
+      <td> {{asig.asignatura}}</td>
+      <td> {{asig.stock}}</td>
+    </tr>
+
+  </tbody>
+
+</table>

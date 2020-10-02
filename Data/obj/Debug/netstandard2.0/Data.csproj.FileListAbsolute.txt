@@ -1,0 +1,14 @@
+D:\VISUAL\Larry_Caichihua\Data\bin\Debug\netstandard2.0\Data.deps.json
+D:\VISUAL\Larry_Caichihua\Data\bin\Debug\netstandard2.0\Data.dll
+D:\VISUAL\Larry_Caichihua\Data\bin\Debug\netstandard2.0\Data.pdb
+D:\VISUAL\Larry_Caichihua\Data\bin\Debug\netstandard2.0\Entity.dll
+D:\VISUAL\Larry_Caichihua\Data\bin\Debug\netstandard2.0\Entity.pdb
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.Properties.Resources.resources
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.csproj.GenerateResource.cache
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.dll
+D:\VISUAL\Larry_Caichihua\Data\obj\Debug\netstandard2.0\Data.pdb

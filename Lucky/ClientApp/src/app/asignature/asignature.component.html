@@ -1,0 +1,24 @@
+<h1>Asignatura Data</h1>
+
+<p>This component.</p>
+
+<p *ngIf="!asigList"><em>Loading...
+   </em></p>
+<table *ngIf="asigList" class="table-striped">
+  <thead>
+    <tr>
+      <th>Asignatura Id</th>
+      <th>Asignatura Name</th>
+
+    </tr>
+
+  </thead>
+  <tbody>
+    <tr *ngFor="let asig  of  asigList">
+      <td> {{asig.id_asig}}</td>
+      <td> {{asig.descripcion}}</td>
+    </tr>
+
+  </tbody>
+
+</table>
